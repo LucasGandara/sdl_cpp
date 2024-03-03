@@ -1,0 +1,1 @@
+add_library(Mathfunctions STATIC Mathfunctions.cpp mysqrt.cpp)
